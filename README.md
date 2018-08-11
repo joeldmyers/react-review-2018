@@ -1,6 +1,6 @@
 # React/Redux review 2018
 
-Using the starter kit by Stephen Grider to quickly go over React functionality.
+Quick refresher of react/redux
 
 ### Getting Started
 
