@@ -7,10 +7,10 @@ import SearchBar from './components/search_bar';
 const YOUTUBE_API_KEY = 'AIzaSyB1ACzPBlhVNVlHxFZgPiJHo4Q9riuV9PI';
 // Make first component
 const App = () => {
-  return <div>
+  return (<div>
     <SearchBar />
       hello
-    </div>;
+    </div>);
 }
 
 // render it
